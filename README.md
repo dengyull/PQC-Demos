@@ -10,9 +10,9 @@ This project is built using Spring Boot and BouncyCastle, designed to showcase c
 - **Self-Signed Certificate Generation**: Demonstrates the creation of self-signed certificates for secure communications.
 
 ## Prerequisites
-- Java JDK 11 or later
+- Java JDK 17 or later
 - Maven 3.6 or later
-- Spring Boot 2.x
+- Spring Boot 3.2.0
 - BouncyCastle library
 
 ## Installation
