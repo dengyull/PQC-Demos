@@ -19,3 +19,5 @@ This project is built using Spring Boot and BouncyCastle, designed to showcase c
 1. Clone the repository:
 2. Navigate to the project directory:
 3. Build the project using Maven:
+## Acknowledgements
+Special thanks to the teams behind BouncyCastle and Spring Boot for their outstanding frameworks. These tools have been instrumental in the development of this project, providing robust functionalities for encryption, decryption, and HTTP request handling. 
